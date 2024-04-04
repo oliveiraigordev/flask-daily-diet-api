@@ -4,6 +4,7 @@ Repositório criado para armazenar o código da API de controle de alimentação
 
 Desenvolvido utilizando o framework Flask com utilização de banco de dados PostgreSQL em container.
 
+Contem arquivo api_collection.json para importação em aplicações como postman, insomnia, etc.
 
 ## Inicialização do banco (temporário)
 Executar o seguinte comando no terminal:
